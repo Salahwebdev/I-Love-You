@@ -1,12 +1,13 @@
 .fs-80{
-  font-size: 80px;
+  font-size: 60px;
   font-weight: 900;
   font-family:Georgia, 'Times New Roman', Times, serif;
   color: #ffffff;
   
   
 }
-body{
+.buutterfly{
+  height: 100vh;
   background-image: url(../watercolor-butterfly-background_23-2150088730.jpg);
   background-repeat: no-repeat;
   background-size: cover;
@@ -75,3 +76,4 @@ body{
   font-size: 100px;
   transform: translateX(180%) translateY(20px);
 }
+
